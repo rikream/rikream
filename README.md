@@ -1,97 +1,122 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rikim%20Rana&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
 
-## Rikim Rana
+# Rikim Rana  
+### AI Engineer | Backend Builder | Curious Mind Turning Ideas Into Code
 
-AI engineer. Backend system builder. Occasional breaker of things that deserve to be rebuilt properly.
+*"Turning curiosity into working systems — sometimes elegant, sometimes chaotic, always learning."*
 
-I build intelligent systems, scalable APIs, and machine learning applications that move beyond experiments into usable tools.
-
-Some projects start as curiosity. The good ones become infrastructure.
-
----
-
-## What I'm Building
-
-- Machine learning models and deploying them with FastAPI  
-- Backend systems designed to scale without collapsing under their own complexity  
-- AI tools that automate real workflows  
-- Systems that are simple on the surface and powerful underneath  
-
-Also experimenting with ideas that may or may not work — those tend to teach the most.
+</div>
 
 ---
 
-## Current Direction
+## About Me
+
+I build intelligent systems, scalable APIs, and AI tools designed to survive real-world chaos.  
+Sometimes they succeed. Sometimes they teach me why they didn’t.
+
+Either way:
+
+I learn.  
+I improve.  
+I ship again.
+
+I write code.  
+I break it.  
+I rebuild it better — occasionally pretending that was the original plan.
+
+🎓 BE CSE Student (Graduating 2028)  
+🎯 Aspiring AI Engineer / Backend Developer  
+
+---
+
+## Currently Building
+
+- Machine learning systems deployed with FastAPI  
+- Backend architectures designed to scale cleanly  
+- AI tools automating real workflows  
+- Experimental projects where failure becomes useful data  
+
+Some projects start as curiosity.  
+Some become infrastructure.  
+The strange ones become stories.
+
+---
+
+## Current Focus
 
 - Production-level AI deployment  
 - Backend architecture and API design  
 - Performance optimization  
-- Building systems that remain reliable under pressure  
+- Building reliable systems under real-world pressure  
+
+Simple interface. Serious engineering underneath.
 
 ---
 
-## Selected Work
+## Engineering Work
 
-My repositories include work on:
+You’ll find projects involving:
 
-- Machine learning implementation and deployment  
-- FastAPI backend systems  
-- Neural networks built and trained from scratch  
-- Experimental AI systems and backend tools  
+- Machine learning models trained, deployed, debugged, and improved  
+- Backend systems built with FastAPI and Django  
+- Neural networks built from scratch  
+- Experimental AI automation tools  
 
-Each project improves my understanding of how intelligent systems should actually be built.
+Each repository represents experimentation, learning, and gradual improvement.
 
 ---
 
 ## Philosophy
 
 > Build things that matter.  
-> Break things intentionally.  
-> Understand systems deeply enough to rebuild them better.
+> Break them intentionally.  
+> Understand them deeply enough to rebuild them better.
 
-Most bugs are not failures. They're documentation.
+Most bugs aren’t failures.  
+They’re undocumented lessons.
+
+Debugging often teaches more than success ever did.
 
 ---
 
-## Tech Stack
+## Developer Personality
 
-**Languages**  
-Python, C, Java, SQL  
+- I genuinely enjoy debugging  
+- I’ve trained models that confidently predicted absolutely nothing useful  
+- Elegant systems fascinate me, but chaotic experiments keep things interesting  
+- Dark theme user — non-negotiable  
 
-**AI / Machine Learning**  
-PyTorch, scikit-learn, NumPy, Pandas, matplotlib, Streamlit, Jupyter Notebook  
+Confidence comes from fixing enough broken systems to stop fearing them.
 
-**Backend Engineering**  
-FastAPI, Django, REST APIs, JSON  
+---
 
-**Database**  
-SQLite  
+## Tech Toolbox
 
-**Tools & Environment**  
-Git, GitHub, Linux, Bash, VS Code  
+### Languages
+Python • C • Java • SQL  
 
+### AI / Machine Learning
+PyTorch • scikit-learn • NumPy • Pandas • Streamlit  
+
+### Backend Engineering
+FastAPI • Django • REST APIs  
+
+### Databases
+SQLite (currently), exploring scalable database systems  
+
+### Tools & Environment
+Linux • Git • Bash • VS Code  
+
+Caffeine remains an essential runtime dependency ☕
 
 ---
 
 ## GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=rikream&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rikream&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikream&layout=compact&theme=tokyonight&hide_border=true"/>
-
----
-
-## Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rikream&theme=tokyo-night&hide_border=true"/>
-
----
-
-## Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=rikream&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<!-- Add your GitHub stats widget below -->
+<!-- Example:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME)
+-->
 
 ---
 
@@ -101,12 +126,17 @@ LinkedIn: https://linkedin.com/in/rikim-rana
 Email: rikimrana1@gmail.com  
 Discord: rikream  
 
-Exploring my repositories is encouraged.
+Exploring my repositories is encouraged. Feedback is always welcome.
 
 ---
 
 ## Final Note
 
-Still early in the process. Still building. Still improving.
+Still learning.  
+Still building.  
+Still curious.
 
-The goal is simple: build systems that work — and understand why they work.
+The goal isn’t just writing code —  
+it’s understanding systems deeply enough to make them reliable, useful, and well-designed.
+
+And honestly, I simply enjoy building things.
