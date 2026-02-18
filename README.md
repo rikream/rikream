@@ -55,20 +55,21 @@ Most bugs are not failures. They're documentation.
 
 ## Tech Stack
 
-**Core Languages**  
-Python, C  
+**Languages**  
+Python, C, Java, SQL  
 
 **AI / Machine Learning**  
-PyTorch, NumPy, Pandas, Plotly  
+PyTorch, scikit-learn, NumPy, Pandas, matplotlib, Streamlit, Jupyter Notebook  
 
 **Backend Engineering**  
-FastAPI, Django, REST API architecture  
+FastAPI, Django, REST APIs, JSON  
 
 **Database**  
 SQLite  
 
-**Tools**  
-Git, Linux, VS Code  
+**Tools & Environment**  
+Git, GitHub, Linux, Bash, VS Code  
+
 
 ---
 
