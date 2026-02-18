@@ -64,7 +64,7 @@ Every repo = part experiment, part lesson, part progress log.
 
 ---
 
-## 💭 Philosophy
+##  Philosophy
 
 > Build things that matter.  
 > Break them intentionally.  
@@ -77,7 +77,7 @@ And honestly… debugging teaches more than success ever did.
 
 ---
 
-## 🧱 Dev Personality
+##  Dev Personality
 
 - I actually enjoy debugging (yes, weird hobby)  
 - I’ve trained models that predicted absolutely nothing — very confidently  
@@ -120,7 +120,7 @@ Feedback even more so.
 
 ---
 
-## 🧭 Final Note
+##  Final Note
 
 Still learning.  
 Still building.  
