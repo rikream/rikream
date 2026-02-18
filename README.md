@@ -22,7 +22,7 @@ Sometimes they succeed. Sometimes they teach me why they didn’t.
 I write code.  
 I break it.  
 I fix it better.  
-And occasionally pretend that was the plan all along 😄
+And occasionally pretend that was the plan all along 
 
 **BE CSE Student (Graduating 2028)**  
 **Aspiring AI Engineer | Backend Developer**
