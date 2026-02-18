@@ -1,52 +1,78 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=180&section=header&text=Rikim%20Rana&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rikim%20Rana&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 ## Rikim Rana
 
-AI engineer and backend developer focused on building intelligent systems and scalable APIs using Python.
+AI engineer. Backend system builder. Occasional breaker of things that deserve to be rebuilt properly.
 
-My primary interests are machine learning, backend architecture, and deploying real-world AI applications. I enjoy designing systems that are efficient, production-ready, and solve meaningful problems.
+I build intelligent systems, scalable APIs, and machine learning applications that move beyond experiments into usable tools.
 
----
-
-## Current Focus
-
-- Machine learning model development and deployment  
-- Backend engineering using FastAPI and Django  
-- Building scalable APIs and backend systems  
-- Strengthening fundamentals in system design and AI  
+Some projects start as curiosity. The good ones become infrastructure.
 
 ---
 
-## Tech Stack
+## What I'm Building
 
-**Languages**  
-Python, C  
+- Machine learning models and deploying them with FastAPI  
+- Backend systems designed to scale without collapsing under their own complexity  
+- AI tools that automate real workflows  
+- Systems that are simple on the surface and powerful underneath  
 
-**AI / Machine Learning**  
-PyTorch, NumPy, Pandas, Plotly  
+Also experimenting with ideas that may or may not work — those tend to teach the most.
 
-**Backend Development**  
-FastAPI, Django, REST API design  
+---
 
-**Database**  
-SQLite  
+## Current Direction
+
+- Production-level AI deployment  
+- Backend architecture and API design  
+- Performance optimization  
+- Building systems that remain reliable under pressure  
 
 ---
 
 ## Selected Work
 
-You can explore my repositories to see projects involving:
+My repositories include work on:
 
-- Machine learning model implementation  
-- Backend API development using FastAPI  
-- AI-powered applications  
-- Experimental systems built from scratch  
+- Machine learning implementation and deployment  
+- FastAPI backend systems  
+- Neural networks built and trained from scratch  
+- Experimental AI systems and backend tools  
 
-More production-level projects will be added as they are completed.
+Each project improves my understanding of how intelligent systems should actually be built.
 
 ---
 
-## GitHub Statistics
+## Philosophy
+
+> Build things that matter.  
+> Break things intentionally.  
+> Understand systems deeply enough to rebuild them better.
+
+Most bugs are not failures. They're documentation.
+
+---
+
+## Tech Stack
+
+**Core Languages**  
+Python, C  
+
+**AI / Machine Learning**  
+PyTorch, NumPy, Pandas, Plotly  
+
+**Backend Engineering**  
+FastAPI, Django, REST API architecture  
+
+**Database**  
+SQLite  
+
+**Tools**  
+Git, Linux, VS Code  
+
+---
+
+## GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=rikream&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -56,19 +82,30 @@ More production-level projects will be added as they are completed.
 
 ---
 
-## Activity Graph
+## Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rikream&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-## Connect
+## Trophies
 
-LinkedIn: https://linkedin.com/in/rikim-rana  
-Medium: https://medium.com/@rikimrana2  
-Discord: https://discord.gg/rikream  
-Email: rikimrana1@gmail.com  
+<img src="https://github-profile-trophy.vercel.app/?username=rikream&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:243B55,100:141E30&height=120&section=footer"/>
+## Contact
+
+LinkedIn: https://linkedin.com/in/rikim-rana  
+Email: rikimrana1@gmail.com  
+Discord: rikream  
+
+Exploring my repositories is encouraged.
+
+---
+
+## Final Note
+
+Still early in the process. Still building. Still improving.
+
+The goal is simple: build systems that work — and understand why they work.
